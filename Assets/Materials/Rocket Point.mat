@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rocket
+  m_Name: Rocket Point
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 555e3b588752e104083c8cde66e5bd40, type: 2}
+  m_Parent: {fileID: 2100000, guid: 0f292694e7f0a7740a70985f3e8cae29, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -26,5 +26,5 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 1, g: 0, b: 0.9724331, a: 1}
+    - _Color: {r: 0.2216981, g: 0.9648027, b: 1, a: 1}
   m_BuildTextureStacks: []
